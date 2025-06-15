@@ -46,4 +46,18 @@ public class CotacoesController : ControllerBase
 
         return Ok();
     }
+
+    [HttpGet("{id}/ultima-cotacao")]
+    public async Task<IActionResult> ObterUltimaCotacao(int id)
+    {
+        var cotacao = await _context.Cotacao
+            .Where(c => c.AtivoId == id)
+            .OrderByDescending(c => c.DataHora)
+            .FirstOrDefaultAsync();
+
+        if (cotacao == null)
+            return NotFound("Nenhuma cotação encontrada para este ativo.");
+
+        return Ok(cotacao);
+    }
 }

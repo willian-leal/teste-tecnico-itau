@@ -71,4 +71,13 @@ public class UsuarioService
             LucroPrejuizo = valorAtual - totalInvestido
         };
     }
+
+    public async Task<decimal?> ObterPrecoMedioAsync(int usuarioId, int ativoId)
+    {
+        var posicao = await _context.Posicao
+            .FirstOrDefaultAsync(p => p.UsuarioId == usuarioId && p.AtivoId == ativoId);
+
+        return posicao?.PrecoMedio;
+    }
+
 }

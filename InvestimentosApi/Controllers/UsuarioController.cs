@@ -41,4 +41,14 @@ public class UsuarioController : ControllerBase
         var resumo = await _usuarioService.ObterResumoGlobalAsync(id);
         return Ok(resumo);
     }
+
+    [HttpGet("{id}/preco-medio/{ativoId}")]
+    public async Task<IActionResult> ObterPrecoMedio(int id, int ativoId)
+    {
+        var precoMedio = await _usuarioService.ObterPrecoMedioAsync(id, ativoId);
+        if (precoMedio is null)
+            return NotFound("Preço médio não disponível para este ativo.");
+
+        return Ok(precoMedio);
+    }
 }

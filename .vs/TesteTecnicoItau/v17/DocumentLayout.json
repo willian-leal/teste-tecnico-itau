@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F64E6764-4E55-4633-8EA4-0B14D8016757}|InvestimentosWorker\\InvestimentosWorker.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosworker\\services\\kafkacotacaoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64E6764-4E55-4633-8EA4-0B14D8016757}|InvestimentosWorker\\InvestimentosWorker.csproj|solutionrelative:investimentosworker\\services\\kafkacotacaoconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\dtos\\cotacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\dtos\\cotacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\models\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\models\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\controllers\\cotacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\controllers\\cotacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\models\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\models\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\models\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\models\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\models\\ativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\models\\ativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64E6764-4E55-4633-8EA4-0B14D8016757}|InvestimentosWorker\\InvestimentosWorker.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64E6764-4E55-4633-8EA4-0B14D8016757}|InvestimentosWorker\\InvestimentosWorker.csproj|solutionrelative:investimentosworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\data\\investimentosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\data\\investimentosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A231BE-BBAD-46F2-9040-67307E57DA75}|InvestimentosApi.Tests\\InvestimentosApi.Tests.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi.tests\\precomedioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A231BE-BBAD-46F2-9040-67307E57DA75}|InvestimentosApi.Tests\\InvestimentosApi.Tests.csproj|solutionrelative:investimentosapi.tests\\precomedioservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\services\\precomedioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\services\\precomedioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15AF0D0-F9F1-45BA-B851-4142B3A9ACC0}|InvestimentosApi\\InvestimentosApi.csproj|solutionrelative:investimentosapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64E6764-4E55-4633-8EA4-0B14D8016757}|InvestimentosWorker\\InvestimentosWorker.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosworker\\docker-compose.kafka.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F64E6764-4E55-4633-8EA4-0B14D8016757}|InvestimentosWorker\\InvestimentosWorker.csproj|solutionrelative:investimentosworker\\docker-compose.kafka.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64E6764-4E55-4633-8EA4-0B14D8016757}|InvestimentosWorker\\InvestimentosWorker.csproj|c:\\users\\willian oliveira\\development\\teste-tecnico-itau\\investimentosworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F64E6764-4E55-4633-8EA4-0B14D8016757}|InvestimentosWorker\\InvestimentosWorker.csproj|solutionrelative:investimentosworker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaCotacaoConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosWorker\\Services\\KafkaCotacaoConsumer.cs",
+              "RelativeDocumentMoniker": "InvestimentosWorker\\Services\\KafkaCotacaoConsumer.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosWorker\\Services\\KafkaCotacaoConsumer.cs",
+              "RelativeToolTip": "InvestimentosWorker\\Services\\KafkaCotacaoConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:37:16.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosWorker\\Program.cs",
+              "RelativeDocumentMoniker": "InvestimentosWorker\\Program.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosWorker\\Program.cs",
+              "RelativeToolTip": "InvestimentosWorker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:37:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ativo.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Ativo.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Models\\Ativo.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Ativo.cs",
+              "RelativeToolTip": "InvestimentosApi\\Models\\Ativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:28:56.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "InvestimentosApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:21:30.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Posicao.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Posicao.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Models\\Posicao.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Posicao.cs",
+              "RelativeToolTip": "InvestimentosApi\\Models\\Posicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:21:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Operacao.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Operacao.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Models\\Operacao.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Operacao.cs",
+              "RelativeToolTip": "InvestimentosApi\\Models\\Operacao.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:21:04.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvestimentosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Data\\InvestimentosDbContext.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Data\\InvestimentosDbContext.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Data\\InvestimentosDbContext.cs",
+              "RelativeToolTip": "InvestimentosApi\\Data\\InvestimentosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:19:27.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Program.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Program.cs",
+              "RelativeToolTip": "InvestimentosApi\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:59:37.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CotacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Controllers\\CotacoesController.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Controllers\\CotacoesController.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Controllers\\CotacoesController.cs",
+              "RelativeToolTip": "InvestimentosApi\\Controllers\\CotacoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:50:26.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cotacao.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Cotacao.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Models\\Cotacao.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Models\\Cotacao.cs",
+              "RelativeToolTip": "InvestimentosApi\\Models\\Cotacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:48:44.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CotacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\DTOs\\CotacaoDto.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\DTOs\\CotacaoDto.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\DTOs\\CotacaoDto.cs",
+              "RelativeToolTip": "InvestimentosApi\\DTOs\\CotacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:47:14.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "InvestimentosApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:44:32.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrecoMedioServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi.Tests\\PrecoMedioServiceTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi.Tests\\PrecoMedioServiceTests.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi.Tests\\PrecoMedioServiceTests.cs",
+              "RelativeToolTip": "InvestimentosApi.Tests\\PrecoMedioServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:37:57.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "InvestimentosApi\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:36:01.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PrecoMedioService.cs",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Services\\PrecoMedioService.cs",
+              "RelativeDocumentMoniker": "InvestimentosApi\\Services\\PrecoMedioService.cs",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosApi\\Services\\PrecoMedioService.cs",
+              "RelativeToolTip": "InvestimentosApi\\Services\\PrecoMedioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:35:57.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-14T16:58:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "docker-compose.kafka.yml",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosWorker\\docker-compose.kafka.yml",
+              "RelativeDocumentMoniker": "InvestimentosWorker\\docker-compose.kafka.yml",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosWorker\\docker-compose.kafka.yml",
+              "RelativeToolTip": "InvestimentosWorker\\docker-compose.kafka.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-14T16:43:06.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosWorker\\appsettings.json",
+              "RelativeDocumentMoniker": "InvestimentosWorker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Willian Oliveira\\development\\teste-tecnico-itau\\InvestimentosWorker\\appsettings.json",
+              "RelativeToolTip": "InvestimentosWorker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T16:42:37.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
